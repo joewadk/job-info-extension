@@ -1,0 +1,3 @@
+- [ ] npx create the app
+- [ ] use chrome's chrome.storage api to store local info
+- [ ] generate a .crx file so the app stays active
